@@ -1,4 +1,8 @@
-import { ConnectionTokenSet, CookieOptions, SessionData } from "../../types/index.js";
+import {
+  ConnectionTokenSet,
+  CookieOptions,
+  SessionData
+} from "../../types/index.js";
 
 import type { JWTPayload } from "jose";
 
